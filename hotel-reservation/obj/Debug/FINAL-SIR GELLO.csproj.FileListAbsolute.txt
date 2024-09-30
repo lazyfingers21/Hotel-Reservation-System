@@ -1,0 +1,118 @@
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form1.resources
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form2.resources
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.pdb
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csprojResolveAssemblyReference.cache
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form1.resources
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form2.resources
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form3.resources
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form4.resources
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Properties.Resources.resources
+D:\FINAL\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.pdb
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form1.resources
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form2.resources
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form3.resources
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form4.resources
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Properties.Resources.resources
+C:\Users\user\Desktop\FINAL-SIR GELLO\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csproj.GenerateResource.Cache
+E:\Edited\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+E:\Edited\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+E:\Edited\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form1.resources
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form2.resources
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form3.resources
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form4.resources
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\bin\Debug\Security.dll
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\bin\Debug\Security.pdb
+C:\Users\LENOVO\Desktop\Backup\Edited - Copy 2\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+C:\Users\LENOVO\Desktop\Backup\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Desktop\Backup\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\bin\Debug\Security.dll
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\bin\Debug\Security.pdb
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form1.resources
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form2.resources
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form3.resources
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form4.resources
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Edited - Copy 2\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csprojResolveAssemblyReference.cache
+E:\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+E:\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+E:\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.pdb
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\bin\Debug\Security.dll
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\bin\Debug\Security.pdb
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form1.resources
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form2.resources
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form3.resources
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form4.resources
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Properties.Resources.resources
+C:\Users\Gemma\Documents\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csproj.GenerateResource.Cache
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.pdb
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\bin\Debug\Security.dll
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\bin\Debug\Security.pdb
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csprojResolveAssemblyReference.cache
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form1.resources
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form2.resources
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form3.resources
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form4.resources
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Properties.Resources.resources
+E:\Files are hidden by Trojan\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\Sir Gelo\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Desktop\Windows Form Projects 2\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Documents\Windows Form Projects 2\Sir Gelo\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+C:\Users\LENOVO\Documents\Windows Form Projects 2\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Documents\Windows Form Projects 2\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe.config
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.exe
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\bin\Debug\FINAL-SIR GELLO.pdb
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\bin\Debug\Security.dll
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\bin\Debug\Security.pdb
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form1.resources
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form2.resources
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form3.resources
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Form4.resources
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL_SIR_GELLO.Properties.Resources.resources
+C:\Users\LENOVO\Documents\PROJECTS\Sir Gelo\FINAL\FINAL-SIR GELLO\obj\Debug\FINAL-SIR GELLO.csproj.GenerateResource.Cache
