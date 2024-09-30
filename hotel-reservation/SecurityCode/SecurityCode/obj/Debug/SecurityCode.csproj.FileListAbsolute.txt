@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\SecurityCode\SecurityCode\bin\Debug\SecurityCode.dll
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\SecurityCode\SecurityCode\bin\Debug\SecurityCode.pdb
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\SecurityCode\SecurityCode\obj\Debug\SecurityCode.dll
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\SecurityCode\SecurityCode\obj\Debug\SecurityCode.pdb

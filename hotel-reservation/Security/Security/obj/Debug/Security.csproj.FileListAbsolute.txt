@@ -1,0 +1,5 @@
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\Security\Security\bin\Debug\Security.dll
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\Security\Security\bin\Debug\Security.pdb
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\Security\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\Security\Security\obj\Debug\Security.dll
+C:\Users\LENOVO\Desktop\Edited\FINAL-SIR GELLO\Security\Security\obj\Debug\Security.pdb
